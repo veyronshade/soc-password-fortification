@@ -23,6 +23,7 @@ Most password tools are either too basic (just random characters) or too weak (a
 
 ## ✍️ Author
 Precious Ajibola — transitioning from Civil Engineering to Cybersecurity
+
 [LinkedIn](www.linkedin.com/in/precious-ajibola-b086ab173) | [GitHub](https://github.com/veyronshade) | [TryHackMe Profile](https://tryhackme.com/p/VeyronShade)
 
 ## 🚀 How to Run
