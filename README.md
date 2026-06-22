@@ -8,6 +8,22 @@ Most password tools are either too basic (just random characters) or too weak (a
 - Generates strong passwords that are still memorable
 - Uses cybersecurity terminology (relevant for SOC Analysts)
 
+## 👨‍💻 Why SOC Analysts Need This
+
+In a SOC environment, password policy violations are a daily alert category. 
+Analysts investigate:
+
+- **Weak passwords** in credential dumps (Have I Been Pwned, breach data)
+- **Password reuse** across multiple accounts
+- **Default credentials** on internal systems (admin/admin, root/password)
+
+This tool automates the **first triage step**: score the password, flag weaknesses, 
+and generate a compliant replacement. A Tier 1 analyst can run this against 
+exported credentials instead of checking manually.
+
+**Real-world parallel:** Splunk alerts for "weak password detected" → analyst runs 
+this script → scores and documents → escalates if critical.
+
 ## ✅ What This Tool Does
 | Feature | Description |
 |---------|-------------|
