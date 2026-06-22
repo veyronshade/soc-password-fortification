@@ -21,6 +21,10 @@ Most password tools are either too basic (just random characters) or too weak (a
 - **Python 3** — No external libraries
 - **Concepts Used:** Variables, Input/Output, Type Conversion, f-Strings, Lists, Nested Lists, For Loops, Nested Loops, Random Module, Conditional Logic
 
+## ✍️ Author
+Precious Ajibola — transitioning from Civil Engineering to Cybersecurity
+[LinkedIn](www.linkedin.com/in/precious-ajibola-b086ab173) | [GitHub](https://github.com/veyronshade) | [TryHackMe Profile](https://tryhackme.com/p/VeyronShade)
+
 ## 🚀 How to Run
 ```bash
 git clone https://github.com/veyronshade/soc-password-fortification.git
