@@ -23,6 +23,7 @@ Most password tools are either too basic (just random characters) or too weak (a
 
 ## 🚀 How to Run
 ```bash
-python soc-password-fortification.py
+git clone https://github.com/veyronshade/soc-password-fortification.git
+cd soc-password-fortification
+python3 fortify_password.py
 ```
-
